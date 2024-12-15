@@ -1,0 +1,25 @@
+.register{
+    position: relative;
+    text-align: center;
+    padding: 100px;
+    border: 1px solid black;
+    width: 200px;
+    margin-left: 425px;
+    margin-top: 100px;
+    height: 320px;
+    border-radius: 25px;
+    background: url(https://wallpapercave.com/wp/wp3550541.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+    
+}
+body{
+    background: url(https://wallpaperaccess.com/full/134828.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  
+}
